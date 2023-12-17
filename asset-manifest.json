@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fidelion/static/css/main.dc365f2f.css",
-    "main.js": "/fidelion/static/js/main.421c7dce.js",
+    "main.js": "/fidelion/static/js/main.d2b41ede.js",
     "static/media/E.png": "/fidelion/static/media/E.312b3946106f9e2faa43.png",
     "static/media/B.png": "/fidelion/static/media/B.83520820f6d0ff105df5.png",
     "static/media/F.png": "/fidelion/static/media/F.8ebb31301cd26a7020c0.png",
@@ -100,8 +100,8 @@
     "static/media/fidelon_logo.png": "/fidelion/static/media/fidelon_logo.a8559426444b9c37f5f3.png",
     "static/media/about_a.png": "/fidelion/static/media/about_a.7dd29fe628a9efc1c9a6.png",
     "static/media/harrier_f.png": "/fidelion/static/media/harrier_f.4ca90aac5ce56bbb58f0.png",
-    "static/media/about_d.png": "/fidelion/static/media/about_d.55ce353e0b445e2dfcc9.png",
     "static/media/harrier_c.png": "/fidelion/static/media/harrier_c.6b280e419a75e1212cac.png",
+    "static/media/about_d.png": "/fidelion/static/media/about_d.5a33fc5d363c6dfc4b11.png",
     "static/media/harrier_a.png": "/fidelion/static/media/harrier_a.d9bedbc54a235f07cfb8.png",
     "static/media/harrier_g.png": "/fidelion/static/media/harrier_g.514432b17fb88ba2ea1c.png",
     "static/media/harrier_d.png": "/fidelion/static/media/harrier_d.77731a505a5e1dc1c456.png",
@@ -118,10 +118,10 @@
     "index.html": "/fidelion/index.html",
     "static/media/bottom_arrow_icon.svg": "/fidelion/static/media/bottom_arrow_icon.bbacf9285adc5e99198b29518c13e0a7.svg",
     "main.dc365f2f.css.map": "/fidelion/static/css/main.dc365f2f.css.map",
-    "main.421c7dce.js.map": "/fidelion/static/js/main.421c7dce.js.map"
+    "main.d2b41ede.js.map": "/fidelion/static/js/main.d2b41ede.js.map"
   },
   "entrypoints": [
     "static/css/main.dc365f2f.css",
-    "static/js/main.421c7dce.js"
+    "static/js/main.d2b41ede.js"
   ]
 }
