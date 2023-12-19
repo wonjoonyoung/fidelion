@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fidelion/static/css/main.dc365f2f.css",
-    "main.js": "/fidelion/static/js/main.4949fd9a.js",
+    "main.js": "/fidelion/static/js/main.f2bf1543.js",
     "static/media/E.png": "/fidelion/static/media/E.312b3946106f9e2faa43.png",
     "static/media/B.png": "/fidelion/static/media/B.83520820f6d0ff105df5.png",
     "static/media/F.png": "/fidelion/static/media/F.8ebb31301cd26a7020c0.png",
@@ -9,8 +9,13 @@
     "static/media/H.png": "/fidelion/static/media/H.1f05010325b82fccfc55.png",
     "static/media/G.png": "/fidelion/static/media/G.e60981f60ad0533e244c.png",
     "static/media/I.png": "/fidelion/static/media/I.d7bb4f72e558c3634524.png",
+    "static/media/CARROL.png": "/fidelion/static/media/CARROL.85be838fc78a68f6ca32.png",
     "static/media/C.png": "/fidelion/static/media/C.483e4e40c1cfe0edcafe.png",
+    "static/media/KAZUUU.png": "/fidelion/static/media/KAZUUU.479dc46eb95ae94ebd90.png",
+    "static/media/ROBIN.png": "/fidelion/static/media/ROBIN.2c186fb1dd8d95eca3c1.png",
     "static/media/fidelion_d_a.jpg": "/fidelion/static/media/fidelion_d_a.36b57f81369619d0159f.jpg",
+    "static/media/RIZEL.png": "/fidelion/static/media/RIZEL.6cce36e61c02a9eecf38.png",
+    "static/media/WADE.png": "/fidelion/static/media/WADE.c75137d613be562cac6d.png",
     "static/media/2031_main.png": "/fidelion/static/media/2031_main.cf16d06141a2f5592b2f.png",
     "static/media/fidelion_a1_background.png": "/fidelion/static/media/fidelion_a1_background.6411eab77cb8ab704db9.png",
     "static/media/fidelion_a4_background.png": "/fidelion/static/media/fidelion_a4_background.b3c93480368f4fc6a15a.png",
@@ -26,9 +31,9 @@
     "static/media/fidelion_a1_b.png": "/fidelion/static/media/fidelion_a1_b.bb7931709e6d4385367f.png",
     "static/media/fidelion_a2_a.png": "/fidelion/static/media/fidelion_a2_a.bb7931709e6d4385367f.png",
     "static/media/B_jp.png": "/fidelion/static/media/B_jp.d8cd8c14c4c346a2c62f.png",
-    "static/media/A_jp.png": "/fidelion/static/media/A_jp.59997fbb72cd81c1ba9e.png",
     "static/media/A_kr.png": "/fidelion/static/media/A_kr.59997fbb72cd81c1ba9e.png",
     "static/media/B_kr.png": "/fidelion/static/media/B_kr.8494c392e355c7f70e37.png",
+    "static/media/A_jp.png": "/fidelion/static/media/A_jp.83be486aa68367d366ba.png",
     "static/media/F_jp.png": "/fidelion/static/media/F_jp.3ca5b3d0fede4f91acde.png",
     "static/media/F_kr.png": "/fidelion/static/media/F_kr.4952118d8621a5e97e0d.png",
     "static/media/A.png": "/fidelion/static/media/A.3dd1295d84a4aef510bd.png",
@@ -88,9 +93,7 @@
     "static/media/HOKYO.png": "/fidelion/static/media/HOKYO.a4fd5de46ae7c19bad30.png",
     "static/media/section_c_background.png": "/fidelion/static/media/section_c_background.4ffaa42dd74de8b2ae73.png",
     "static/media/BLAIR.png": "/fidelion/static/media/BLAIR.c85ce5e873c488c8eacf.png",
-    "static/media/CARROL.png": "/fidelion/static/media/CARROL.060dd01334a64dcb08be.png",
     "static/media/RYOT.png": "/fidelion/static/media/RYOT.6bf2b429d4952dc9543a.png",
-    "static/media/RIZEL.png": "/fidelion/static/media/RIZEL.2a10c6f5be3f49e3a419.png",
     "static/media/BO.png": "/fidelion/static/media/BO.89fd02c9bb0187062b33.png",
     "static/media/JASON.png": "/fidelion/static/media/JASON.55404c3e635a26238600.png",
     "static/media/EASTONE.png": "/fidelion/static/media/EASTONE.7f40fb7b469ff06c4c66.png",
@@ -118,10 +121,10 @@
     "index.html": "/fidelion/index.html",
     "static/media/bottom_arrow_icon.svg": "/fidelion/static/media/bottom_arrow_icon.bbacf9285adc5e99198b29518c13e0a7.svg",
     "main.dc365f2f.css.map": "/fidelion/static/css/main.dc365f2f.css.map",
-    "main.4949fd9a.js.map": "/fidelion/static/js/main.4949fd9a.js.map"
+    "main.f2bf1543.js.map": "/fidelion/static/js/main.f2bf1543.js.map"
   },
   "entrypoints": [
     "static/css/main.dc365f2f.css",
-    "static/js/main.4949fd9a.js"
+    "static/js/main.f2bf1543.js"
   ]
 }
